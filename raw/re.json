@@ -1,0 +1,18 @@
+[
+  {
+    "name": "A24",
+    "iptv_urls": [""],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "A24",
+    "iptv_urls": [""],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+]

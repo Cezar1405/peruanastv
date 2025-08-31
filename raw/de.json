@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Tudn",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/tudn.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "Gol Peru",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/golperu.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "Tnt Sports",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/tntsports.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "Espn Premium Lat",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espnpremiumlat.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "Espn Premium Argentina",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espnpremiumargentina.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "Tyc Sports",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/tycsports.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "FOX SPORTS",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/foxsports.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "FOX SPORTS 2",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/foxsports2.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "FOX SPORTS 3",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/foxsports3.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "FOX DEPORTES",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/foxdeportes.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+{
+    "name": "ESPN LAT",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espnlat.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "ESPN ARGENTINA",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espnargentina.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "ESPN COLOMBIA",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espncolombia.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "ESPN 2",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espn2.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "ESPN 3",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espn3.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "ESPN 4",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espn4.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "ESPN 5",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espn5.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "ESPN 6",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espn6.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "ESPN 7",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espn7.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "DIRECTV SPORTS",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/directvsports.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "DIRECTV SPORTS 2",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/directvsports2.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "DIRECTV SPORTS PLUS",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/directvsportsplus.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "FOX SPORTS MX",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/foxsportsmx.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "FOX SPORTS 2 MX",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/foxsports2mx.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "FOX SPORTS 3 MX",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/foxsports3mx.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "ESPN MX",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espnmx.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "ESPN 2 MX",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espn2mx.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "ESPN 3 MX",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espn3mx.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "ESPN 4 MX",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espn4mx.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "ESPN 5 MX",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/espn5mx.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "TVC DEPORTES",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/tvcdeportes.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "LIGA 1",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/liga1.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "LIGA 1 MAX",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/liga1max.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "FOX SPORTS PREMIUM",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/foxsportspremium.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "MOVISTAR DEPORTES PE",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/movistardeportespe.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "DAZN F1",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/daznf1.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "DAZN LA LIGA",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/daznlaliga.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "M. LIGA DE CAMPEONES",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/movistarligadecampeones.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "WIN SPORTS",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/winsports.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "WIN SPORTS PLUS",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/winsportsplus.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "BEIN SPORTS XTRA",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/beinsportsxtra.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "MOVISTAR LA LIGA",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/movistarlaliga.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "NBA",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/nba.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "MOVISTAR DEPORTES ES",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/movistardeporteses.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "AZTECA DEPORTES",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/aztecadeportes.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "TNT SPORTS CHILE",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/tntsportschile.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "MLB NETWORK",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/mlbnetwork.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "SKY SPORTS MX",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/skysportsmx.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "SKY SPORTS BUNDESLIGA",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/skysportsbundesliga.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "name": "SKY SPORTS F1",
+    "iptv_urls": ["https://embed.saohgdasregions.fun/embed/skysportsf1.html"],
+    "youtube_urls": [""],
+    "language": "spa",
+    "country": "de",
+    "isGeoBlocked": false
+  }
+]
