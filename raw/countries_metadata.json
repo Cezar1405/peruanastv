@@ -329,12 +329,6 @@
     "timeZone": "Europe/Prague",
     "hasChannels": true
   },
-  "DE": {
-    "country": "Germany",
-    "capital": "Berlin",
-    "timeZone": "Europe/Berlin",
-    "hasChannels": true
-  },
   "DJ": {
     "country": "Djibouti",
     "capital": "Djibouti",
