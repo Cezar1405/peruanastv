@@ -56,45 +56,45 @@
   },
   {
     "nanoid": "bK2TlT0v8UWAuh",
-    "name": "Colosal TV",
+    "name": "Los Simpsons",
     "iptv_urls": [
-      "https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "Adolescentes",
     "country": "cr",
     "isGeoBlocked": false
   },
   {
     "nanoid": "wXST2Lc3NQDzOF",
-    "name": "Coto Brus TV",
+    "name": "Kid Musculo",
     "iptv_urls": [
-      "https://cloudvideo.servers10.com:8081/8030/index.m3u8"
+      "https://live20.bozztv.com/giatvplayout7/giatv-210933/tracks-v1a1/mono.ts.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "Adolescentes",
     "country": "cr",
     "isGeoBlocked": false
   },
   {
     "nanoid": "xMyWNZNLNYysjq",
-    "name": "Enlace",
+    "name": "Meteoro",
     "iptv_urls": [
-      "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8"
+      "https://live20.bozztv.com/giatvplayout7/giatv-210861/tracks-v1a1/2025/11/10/00/25/40-10677.ts"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "Adolescentes",
     "country": "cr",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ejJZfMgOR7K5m8",
-    "name": "Extrema Kids TV",
+    "name": "Spiderman",
     "iptv_urls": [
-      "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8"
+      "https://live20.bozztv.com/giatvplayout7/giatv-210702/tracks-v1a1/mono.ts.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "Adolescentes",
     "country": "cr",
     "isGeoBlocked": false
   },
