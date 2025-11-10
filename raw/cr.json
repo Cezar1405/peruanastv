@@ -6,7 +6,7 @@
       "https://live20.bozztv.com/giatvplayout7/giatv-208870/tracks-v1a1/mono.ts.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "Familia",
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -17,42 +17,40 @@
       "https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "Infantil",
     "country": "cr",
     "isGeoBlocked": false
   },
   {
     "nanoid": "X0fe1ozGC5qVsh",
-    "name": "Canal 1",
+    "name": "Goku tv",
     "iptv_urls": [
-      "https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8",
-      "https://video20.klm99.com:3993/live/canal1crlive.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "Infantil",
     "country": "cr",
     "isGeoBlocked": false
   },
   {
     "nanoid": "9cN6rSKGfOi3ha",
-    "name": "Canal 3 KMK TV",
+    "name": "Yu Gi Oh! tv",
     "iptv_urls": [
-      "https://s3.tvdatta.com:3030/live/kmk3live.m3u8",
-      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
+      "https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
+    "language": "Adolescentes",
     "country": "cr",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Z3J6UkFFEng975",
-    "name": "Canal 17 TV Nosara",
+    "name": "Cuentos de la Cripta",
     "iptv_urls": [
-      "https://latamvdo.com:3870/hybrid/play.m3u8"
+      "https://live20.bozztv.com/giatvplayout7/giatv-210858/tracks-v1a1/mono.ts.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "Infantil",
     "country": "cr",
     "isGeoBlocked": false
   },
