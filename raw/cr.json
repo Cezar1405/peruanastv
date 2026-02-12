@@ -1,5 +1,153 @@
 [
   {
+    "name": "El Chavo",
+    "iptv_urls": ["https://live20.bozztv.com/giatvplayout7/giatv-208870/tracks-v1a1/mono.ts.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Retrotoons",
+    "iptv_urls": ["https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/chunks.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Los Pitufos",
+    "iptv_urls": ["https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  
+  {
+    "name": "Erase una vez",
+    "iptv_urls": ["https://live20.bozztv.com/giatvplayout7/giatv-210394/tracks-v1a1/mono.ts.m3u8", "mhttps://live20.bozztv.com/giatvplayout7/giatv-209703/tracks-v1a1/mono.ts.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "El Galáctico",
+    "iptv_urls": ["https://live20.bozztv.com/giatvplayout7/giatv-210701/tracks-v1a1/mono.ts.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Golden Boy",
+    "iptv_urls": ["https://live20.bozztv.com/giatvplayout7/giatv-210841/tracks-v1a1/mono.ts.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Ahhh Monstruos de verdad",
+    "iptv_urls": ["https://live20.bozztv.com/giatvplayout7/giatv-210855/tracks-v1a1/mono.ts.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Cuentos de la Cripta",
+    "iptv_urls": ["https://live20.bozztv.com/giatvplayout7/giatv-210858/tracks-v1a1/mono.ts.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "X-men",
+    "iptv_urls": ["https://live20.bozztv.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Spider-man",
+    "iptv_urls": ["https://live20.bozztv.com/giatvplayout7/giatv-210702/tracks-v1a1/mono.ts.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Meteoro",
+    "iptv_urls": ["https://live20.bozztv.com/giatvplayout7/giatv-210861/tracks-v1a1/mono.ts.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Cartoonmania",
+    "iptv_urls": ["https://live20.bozztv.com/giatvplayout7/giatv-210863/tracks-v1a1/mono.ts.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Cinderella Boy",
+    "iptv_urls": ["https://live20.bozztv.com/giatvplayout7/giatv-210932/tracks-v1a1/mono.ts.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Kid Músculo: El Legado Kinnikuman",
+    "iptv_urls": ["https://live20.bozztv.com/giatvplayout7/giatv-210933/tracks-v1a1/mono.ts.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "XatacaTV",
+    "iptv_urls": ["https://wbd-xat.otteravision.com/wbd/xat/xat_720.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Goku TV",
+    "iptv_urls": ["https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Dragon Ball Super Lat",
+    "iptv_urls": ["https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Dragon Ball Super",
+    "iptv_urls": ["https://live20.bozztv.com/akamaissh101/ssh101/dbzupenco/chunks.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Los Simpsons",
+    "iptv_urls": ["https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "Yu Gi Oh",
+    "iptv_urls": ["https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01796-fastmediafast-yugiohees-rakutenes/cb543d1b7a6c668e84cb3d62cef049a5f9a853fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505e6cdb7fdc7c04c7ce08ed0868280810fa99c365db9b120fb0dc112a2bb7710e16b81705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434ff9081fa6f901fde0e54345c81ff9f34315c03044e3865cc9ca1bbe85dd459f4084668c4bcfcbacdec373d3d0c021f048b7675e16712bdbc47c909c0de78dce3f74cc297c175304b7a5c2b34c39df410e08aaa7ceb967fa15998c268352dfda6aea2707b72b0ada68dd836794efdef6564035bdb62a0b4585d0d0467fa851c700deb7fbd26379e39a7ca3ff680caa4706319cfcc556f7abaf171742f7d63b4842a8bd4a969fb391eba9cf3af4ff726695ea5f6f6719612f8f51a39427bc43b82af89f40720e0c2cc7ebdf3154b54fec446ffff8ab607a13bb99abc9b42b2ed86f0b5fa752d65600567d5506828400f6803560852745d07b6dbb1019894ce9a077b586d5e11434bcda8713ac34af835882a352e94f29500eb7bd186f146d3382bc365b622d8d15b58791a1601f49acd6ddeecc560f023b3c5b18c4b7b427d5dd9669553de9670b4c38501b9f0fd329f8054a0b21805ee5a91b678c092f62b2e96f1d796484c7bc84c8879e10fb2f9d98a86c76750830ef7328296cdaba8819ce394d7f6854cf5a3714f3540c3087ffaec497847cc19560d85a334719ba9a737724536b116eadbd69cf2481a54fe9d9a671c3ed841e40c50cab0e1e9bdabf3da9bd61a6d6d44806317fd6fb5b393a6b443acad33c01813f91/110/1920x1080_6046040/index.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
+    "name": "TV Retro Palmares",
+    "iptv_urls": ["https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8"],
+    "language": "24/7",
+    "country": "cr",
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
+  },
+  {
     "nanoid": "H8TtlIKgrW2bwo",
     "name": "Antena Seis TV",
     "iptv_urls": [
