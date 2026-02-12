@@ -14,9 +14,9 @@
     "nanoid": "YZWpBn5BgYhhht",
     "name": "America TV",
     "iptv_urls": [
-      "https://embed.saohgdasregions.fun/embed2/americatv.html"
+      ""
     ],
-    "youtube_urls": [],
+    "youtube_urls": ["https://embed.saohgdasregions.fun/embed2/americatv.html"],
     "language": "spa",
     "country": "pe",
     "isGeoBlocked": false
