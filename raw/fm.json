@@ -2,316 +2,316 @@
   {
     "name": "Antena Sur",
     "iptv_urls": ["https://stream.zeno.fm/tu63bf6g31zuv"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/antena-sur.png"
   },
   {
     "name": "Bethel",
     "iptv_urls": ["https://alfa.betheltv.tv/radiobethel/1/icecast.audio"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/bethel.png"
   },
   {
     "name": "Cadena 100",
     "iptv_urls": ["https://cadena100-cope.flumotion.com/chunks.m3u8"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": "https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png"
   },
   {
     "name": "Comas",
     "iptv_urls": ["https://tupanel.info:7390/stream/1/"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": "https://cdn.instant.audio/images/logos/radios-com-pe/comas.png"
   },
   {
     "name": "Corazón",
     "iptv_urls": ["https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Cumbia Mix",
     "iptv_urls": ["https://mdstrm.com/audio/6598b6ab95a235085823b24f/icecast.audio?property=radios.com.pe"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Disney",
     "iptv_urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LM.mp3"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Elite",
     "iptv_urls": ["http://149.56.241.147:8456/"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Exito",
     "iptv_urls": ["http://nazca.globalhost1.com:8030/stream/1/"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Exitosa",
     "iptv_urls": ["http://167.114.118.119:7450/;"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Felicidad",
     "iptv_urls": ["https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio#"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Generación KPop",
     "iptv_urls": ["https://stream9.mexiserver.com:8242/stream/1/"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Inca Sat",
     "iptv_urls": ["https://stream.zeno.fm/8r7c7gdvmwzuv"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Integridad Lima",
     "iptv_urls": ["https://dattavolt.com/8164/stream"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "La Karibeña",
     "iptv_urls": ["https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "La Inolvidable",
     "iptv_urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "La Kalle",
     "iptv_urls": ["https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "La Zona",
     "iptv_urls": ["https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Magica",
     "iptv_urls": ["https://25043.live.streamtheworld.com/MAG.mp3"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Marañon",
     "iptv_urls": ["https://panel.innovatestream.pe:10976/stream/1/"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Maria",
     "iptv_urls": ["https://dreamsiteradiocp6.com/proxy/rmperu?mp=/stream/1/"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Matucana",
     "iptv_urls": ["https://radio.transmite.pe/9316/stream/1/"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Mega Mix",
     "iptv_urls": ["https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/audio-aw/p/5faaeb72f92d7b07dfe10181/6320db1b65066f6f67d96cf9.mp3"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Melodia Arequipa",
     "iptv_urls": ["https://stream.radiomelodia.com.pe:8000/radio.mp3"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Moda",
     "iptv_urls": ["https://mdstrm.com/audio/6839e1c82cc4c480fcd318dd/icecast.audio?property=radioscom"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Nova",
     "iptv_urls": ["https://panel.innovatestream.pe:10989/stream/1/"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Nueva Q",
     "iptv_urls": ["https://18323.live.streamtheworld.com/CRP_NQAAC.aac"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Nuevo Tiempo",
     "iptv_urls": ["https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/playlist.m3u8"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Oasis",
     "iptv_urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Onda Cero",
     "iptv_urls": ["https://mdstrm.com/audio/6598b65ab398c90871aff8cc/icecast.audio"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Ovación",
     "iptv_urls": ["https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Oxígeno",
     "iptv_urls": ["https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Panamericana",
     "iptv_urls": ["https://mdstrm.com/audio/6598b62dded1380470f4e539/icecast.audio"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Peru Cumbia",
     "iptv_urls": ["http://servistream.info:8330/stream/1/"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Perufolk",
     "iptv_urls": ["https://raymistream.net/listen/perufolkradio/live"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Planeta",
     "iptv_urls": ["https://peruanastv.ml/Emisoras/radio?id=https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLA_SC"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Radiomar Plus",
     "iptv_urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Ritmo Romantica",
     "iptv_urls": ["https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Rock and Pop",
     "iptv_urls": ["https://streamingv2.shoutcast.com/RADIOROCKANDPOP?lang=es%2ces-ES%3bq%3d0.9%2cen-US%3bq%3d0.8%2cen%3bq%3d0.7"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "RPP",
     "iptv_urls": ["https://stream.zeno.fm/n0fc3vk78ehvv"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "San Borja",
     "iptv_urls": ["https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Studio 92",
     "iptv_urls": ["https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Turbo Mix",
     "iptv_urls": ["https://panel.innovatestream.pe:10998/stream/1/"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Uno",
     "iptv_urls": ["http://stream2.eistreaming.com:9370/stream/1/"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   },
   {
     "name": "Viva FM",
     "iptv_urls": ["https://tupanel.info:8780//stream"],
-    "language": "spa",
+    "language": "Perú",
     "country": "pe",
-    "isGeoBlocked": false
+    "marquee": ""
   }
 ]
